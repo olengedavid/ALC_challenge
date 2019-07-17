@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ALC 4 phase 1</string>
+    <string name="alc_page">ALC Page</string>
+    <string name="my_profile">My Profile</string>
+    <string name="todo">My Profile</string>
+    <string name="name">name</string>
+    <string name="track">Track</string>
+    <string name="country">country</string>
+    <string name="email">email</string>
+    <string name="phone">phone</string>
+    <string name="phone_0742250528">Phone Number:0742250528</string>
+    <string name="email_olengedavid_gmail_com">Email:olengedavid@gmail.com</string>
+    <string name="country_kenya">Country:Kenya</string>
+    <string name="track_android_developer_phase1">Track:Android Developer Phase1</string>
+    <string name="alc">ALC 4 Phase 1</string>
+    <string name="welcome_to_alc_4_0">Welcome to ALC 4.0</string>
+    <string name="Name">David Otieno obonyo</string>
+</resources>
